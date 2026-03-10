@@ -3,7 +3,7 @@ In deze omschrijving ga ik je uitleggen hoe je de mods download om op de server 
 
 ## Stap 1:
 Om de CurseForge app te downloaden ga je naar deze link:<br />
-`https://www.curseforge.com/download/app`
+[Download CurseForge link](https://www.curseforge.com/download/app)
 
 Klik dan daarna op `Download Standalone`.
 
@@ -13,8 +13,8 @@ Klik hier op verder bij alle stappen die je langs ziet komen. Hier hoef je niks 
 Open hierna de CurseForge app en login in je minecraft account.
 
 ## Stap 2:
-Download de `LyTiRi server + shaders-1.zip` uit mijn Github: 
-`https://github.com/R-Dam2005/share-mods-1.21.11`
+Download de `LyTiRi server + shaders-1.zip` uit mijn Github:<br />
+[Mijn github link](https://github.com/R-Dam2005/share-mods-1.21.11)
 
 *Dit is het profiel waar je op gaat spelen waar alle mods etc. al in zit!*
 
