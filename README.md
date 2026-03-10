@@ -7,7 +7,7 @@ Om de CurseForge app te downloaden ga je naar deze link:<br />
 
 Klik dan daarna op `Download Standalone`.
 
-Als de .exe is gedownload open je het bestand.
+Als de `CurseForge Windows - Installer.exe` is gedownload open je het bestand.
 Klik hier op verder bij alle stappen die je langs ziet komen. Hier hoef je niks aan te passen.
 
 Open hierna de CurseForge app en login in je minecraft account.
