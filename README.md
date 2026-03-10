@@ -28,6 +28,7 @@ Ga terug naar CurseForge waar je bent ingelogd en voeg het profiel toe:
 3. Klik hier op `Import` en kies `Import Profile .zip`.
 4. Ga naar de folder waar je het profiel in hebt gedownload en kies deze!<br />(de `LyTiRi server + shaders-1.zip`)
 5. Nu heb je een profiel aangemaakt waar de mods inzitten!
+6. Ga nu met je muis over het profiel heen en klik op `PLAY`!
 
 ## Stap 4: *(Optioneel)*
 Als de server niet in de server lijst staat voeg hem dan toe:
