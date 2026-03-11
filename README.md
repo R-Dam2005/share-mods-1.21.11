@@ -10,7 +10,12 @@ Klik dan daarna op `Download Standalone`.
 Als de `CurseForge Windows - Installer.exe` is gedownload open je het bestand.
 Klik hier op verder bij alle stappen die je langs ziet komen. Hier hoef je niks aan te passen.
 
-Open hierna de CurseForge app en login in je minecraft account.
+Open hierna de CurseForge app.
+
+Kies hier het spel minecraft, klik dan op `Standard` bij de setup CurseForge modding folder.
+Daarna word je gevraagd hoe je minecraft kan launchen. Kies hier voor de optie `Launch with CurseForge`
+
+Log na deze stappen in met je minecraft/microsoft account waar je minecraft account is mee gekoppeld.
 
 ## Stap 2:
 Download de `LyTiRi server + shaders-1.zip` uit mijn Github:<br />
